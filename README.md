@@ -1,1 +1,4 @@
 - 👋 Hi, I’m Benjamin Chaloux, I am a 2nd year Computer Science (BCosc) student at Laurentian University
+- My interests are in Software Development and Data Science
+- I'm currently learning Python and React
+- How to reach me: bchaloux@outlook.com
